@@ -1,0 +1,314 @@
+body {
+  background-color: rgb(250, 251, 251);
+  display: flex;
+  justify-content: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h6 {
+  font-family: "Oswald";
+  font-weight: 700;
+}
+
+h6 {
+  font-family: "Oswald";
+  font-weight: 400;
+  font-size: 0.8em;
+}
+
+p,
+a {
+  font-family: "Nunito";
+  font-weight: 700;
+}
+
+p {
+  font-size: 0.65em;
+  line-height: 1.15em;
+}
+
+a {
+  font-size: 0.9em;
+  color: #94907a;
+  cursor: pointer;
+}
+
+.contact {
+  font-size: 0.9em;
+  line-height: 1.5em;
+}
+
+.mail {
+  font-size: 1.15em;
+}
+
+span {
+  color: #94907a;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #dabf48;
+}
+
+.active {
+  color: #4e4c3f;
+}
+
+/* NAVBAR */
+.navbar {
+  display: none;
+}
+
+/* HOME */
+.title-home {
+  margin: 1em 0 !important;
+}
+
+.img-home {
+  width: 100%;
+  margin: 0.5em 0 2em 0;
+  border-radius: 0.4em;
+}
+
+/* NAV */
+.nav {
+  margin-top: 2em;
+}
+
+/* SLIDE */
+.img-slide {
+  height: 80px;
+}
+
+.img-slide:hover {
+  box-shadow: 0 0 0.75em grey;
+  cursor: pointer;
+}
+
+.para-slide {
+  height: 3em;
+}
+
+.row-slide {
+  display: flex;
+  width: inherit;
+  outline: none;
+  margin-bottom: 1em;
+}
+
+/* SLIDER MODIFICATION DU CSS */
+.slick-slider {
+  max-width: 46.875em;
+}
+
+/*.slick-slide {
+  max-height: 32em;
+  border: none;
+}*/
+
+.slick-list {
+  margin-top: 2% !important;
+}
+
+.slick-prev,
+.slick-next {
+  position: relative !important;
+  padding-bottom: 10px;
+  outline: none;
+  width: 3em;
+  transform: rotate(90deg) !important;
+  left: 11.75% !important;
+  font-size: 0.5em;
+}
+
+.slick-prev:before {
+  content: url("../images/prev.svg") !important;
+}
+
+.slick-next:before {
+  content: url("../images/next.svg") !important;
+}
+
+.slick-disabled {
+  visibility: hidden;
+}
+
+.div-slide {
+  bottom: 5.25em;
+  max-width: 32em;
+  margin-left: 1em;
+  max-height: 6em;
+}
+
+/* MODAL PERSONNALISATION */
+.modal-lg {
+  max-width: 33.25em;
+}
+.div-modal {
+  margin-bottom: 0.5em;
+}
+
+.img-modal {
+  width: 100%;
+  max-height: auto;
+  box-shadow: 0 0 0.5em rgb(190, 190, 190);
+  border-radius: 0.2em;
+  outline: none;
+}
+
+.modal-header {
+  border: none;
+  margin: 0;
+}
+
+.modal-body {
+  padding: 0.93em;
+  max-height: 54em;
+  overflow-y: scroll;
+}
+
+.modal-body-comm {
+  padding: 0.93em;
+}
+
+.text-modal-comm {
+  margin: 1em 0;
+}
+
+.title-modal {
+  margin-top: 1em;
+  color: #94907a;
+}
+
+.subtitle-modal {
+  font-size: 0.8em;
+  margin-top: -0.25em;
+  margin-bottom: 0.5em;
+  color: grey;
+}
+
+.container-width {
+  max-width: 50.625em;
+}
+/* CONTACT */
+.container-contact {
+  margin-top: 21em;
+}
+
+/* RGPD */
+.rgpd-mail {
+  font-size: 0.65rem;
+}
+
+/* RESPONSIVE  SMARTPHONE */
+@media (min-width: 320px) {
+  .navbar-toggler-icon {
+    width: 0.75em;
+    height: 0.75em;
+  }
+
+  .navbar {
+    padding: 0;
+    display: flex;
+    justify-content: end;
+    height: 0%;
+    float: right;
+    top: -2.5rem;
+    transition: 0.2s;
+    width: 14.5%;
+    z-index: 1;
+    font-size: 0.7em;
+  }
+
+  .navbar-collapse {
+    padding: 3.5em 0.5em 0.5em 0.5em;
+    right: 4.5em;
+    position: relative;
+    background-color: rgba(148, 144, 122, 0.4);
+    top: -2.75em;
+    z-index: -1;
+    transition: 0.2s ease-in-out;
+    border-radius: 0.2em;
+  }
+
+  .navbar-toggler {
+    width: 1.75em;
+    height: 1.5em;
+    padding: 0;
+  }
+
+}
+
+@media (max-width: 767px) {
+  .navbar-toggler-icon {
+    width: 0.75em;
+    height: 0.75em;
+  }
+
+  .title-home {
+    font-size: calc(3em / 3);
+  }
+
+  .navbar {
+    width: 14.5%;
+  }
+
+  .display-nav {
+    display: none;
+  }
+
+
+  .navbar-toggler {
+    width: 1.75em;
+    height: 1.5em;
+    padding: 0;
+  }
+}
+
+/* RESPONSIVE  TABLETTE */
+@media (max-width: 991px) {
+  .para-slide,
+  .slick-prev::before,
+  .slick-next::before {
+    display: none;
+  }
+
+  .row-slide {
+    display: flex;
+    flex-direction: column;
+    width: inherit;
+    outline: none;
+    margin-bottom: 1em;
+  }
+
+  .div-slide {
+    margin-left: 0;
+    margin-top: 0.15em;
+  }
+
+  h6 {
+    font-size: 0.75em;
+  }
+
+  h4 {
+    font-size: 1.15em;
+  }
+
+  .img-slide {
+    height: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar {
+    display: none;
+  }
+
+  .display-nav {
+    display: flex;
+  }
+}

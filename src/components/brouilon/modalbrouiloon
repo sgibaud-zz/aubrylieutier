@@ -1,0 +1,65 @@
+    constructor(props) {
+        super(props);
+        this.state = {
+            slide: ''
+        }
+        console.log('modal')
+    }
+
+
+    /*componentDidMount = () => {
+        console.log('composant ok');
+        const { id } = { this.props.id };
+
+        fetch('https://aubrylieutier-d5b0d-default-rtdb.firebaseio.com/projets+${id}.json')
+            .then(resp => resp.json())
+            .then(data => console.log({ slide: data.images }));
+    }
+    /*componentDidMount = () => {
+        fetch('https://aubrylieutier-d5b0d-default-rtdb.firebaseio.com/projets/.json')
+            .then(resp => resp.json())
+            .then(data => console.log({ slide: data.projets.images }));
+    }*/
+
+    /*
+{
+    this.state.slide !== [] &&
+    this.state.slide.localeCompare(m => 
+        <div className='' id={this.state.id}>
+        <img className='img-modal' src={this.state.slide.images} alt={this.props.id.projet} />
+    </div>
+    )
+}
+                            <div className='' id={this.props.id}>
+                            <img className='img-modal' src={this.props.id.images} alt={this.props.id.projet} />
+                        </div>
+    
+                                {
+                                   picture !='' &&
+                                   picture
+                                   .map(m => 
+                                    <img className='img-modal' src={m} alt='' />
+                                   )
+                                }
+    
+                                */
+
+
+
+
+                                            <ReactModal closeButton
+                isOpen={showModal}
+                onRequestClose={close}
+                shouldCloseOnOverlayClick={true}
+            >
+
+                <button onClick={close}>Close Modal</button>
+
+                {
+                    id.map(m =>
+                        <div className='div-modal' key={m.id}>
+                            <img className='img-modal' src={m.img} alt={m.projet} />
+                        </div>)
+                }
+
+            </ReactModal>

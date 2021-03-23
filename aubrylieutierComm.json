@@ -1,0 +1,527 @@
+{
+    "communications": [
+        {
+            "desription": "Photo dans Architecture d’Aujourd’hui n°432",
+            "id": 236,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/236/19.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/236/19i.png"
+                }
+            ],
+            "projet": "Foyer Mélanie (16 septembre 2019)"
+        },
+        {
+            "desription": "Récompense : prix les rubans du patrimoine",
+            "id": 235,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/235/20.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/235/20i.png"
+                }
+            ],
+            "projet": "Espace Culturel et Touristique à Marlenheim (3 juin 2019)"
+        },
+        {
+            "desription": "Construction moderne",
+            "id": 234,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/234/21.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/234/21i.png"
+                }
+            ],
+            "projet": "Cœur des Tanneries à Lingolsheim (Juin 2018)"
+        },
+        {
+            "desription": "Lauréat du prix archi design club awards",
+            "id": 233,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/233/22.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/233/22i.png"
+                }
+            ],
+            "projet": "Cœur des Tanneries à Lingolsheim (8 janvier 2018)"
+        },
+        {
+            "desription": "Affiche d’exposition CAUE",
+            "id": 232,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/232/23.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/232/23i.png"
+                }
+            ],
+            "projet": "Écoles Molkenbronn (2017)"
+        },
+        {
+            "desription": "Palmarès de la construction bois",
+            "id": 231,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/231/24.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/231/24i.png"
+                }
+            ],
+            "projet": "Dépendance à Rosheim (2017)"
+        },
+        {
+            "desription": "Projet sélectionné parmi les 100 bâtiments de l’année AMC 2017",
+            "id": 230,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/230/25.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/230/25i.png"
+                }
+            ],
+            "projet": "Cœur des Tanneries à Lingolsheim (2017)"
+        },
+        {
+            "desription": "Exposition trinationale 2017. Maison Européenne de l’Architecture",
+            "id": 229,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/229/26.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/229/26i.png"
+                }
+            ],
+            "projet": "Cœur des Tanneries à Lingolsheim (Octobre 2017)"
+        },
+        {
+            "desription": "Exposition CAUE",
+            "id": 228,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/228/27.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/228/27i.png"
+                }
+            ],
+            "projet": "École de Bischoffsheim (15 juin 2017)"
+        },
+        {
+            "desription": "Projets sélectionnés. Palmarès de l'architecture et de l'aménagement urbain",
+            "id": 227,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/227/28.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/227/28i.png"
+                }
+            ],
+            "projet": "Foyer Mélanie, école Molkenbronn, maison des services Truchtersheim (2016)"
+        },
+        {
+            "desription": "Exposition trinationale 2016. Maison Européenne de l'Architecture",
+            "id": 226,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/226/29.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/226/29i.png"
+                }
+            ],
+            "projet": "Mairie de Knoersheim (Octobre 2016)"
+        },
+        {
+            "desription": "Exposition trinationale 2016. Maison Européenne de l'Architecture",
+            "id": 225,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/225/30.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/225/30i.png"
+                }
+            ],
+            "projet": "Ecole de Nordheim (Octobre 2016)"
+        },
+        {
+            "desription": "projet : Foyer Paroissial de la Robertsau architecte(s) : AUBRY LIEUTIER",
+            "id": 224,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/224/18.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/224/18i.png"
+                }
+            ],
+            "projet": "Prix Equerre d'Argent 2015 \"Les 100 bâtiments de l'année\""
+        },
+        {
+            "desription": "projet : Foyer Paroissial de la Robertsau architecte(s) : AUBRY LIEUTIER",
+            "id": 223,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/223/17.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/223/17i.png"
+                }
+            ],
+            "projet": "Projet sélectionné pour le prix du Projet Citoyen 2015 de l'UNSFA"
+        },
+        {
+            "desription": "article de : Le Moniteur du BTP",
+            "id": 222,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/222/31.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/222/31i.png"
+                }
+            ],
+            "projet": "Foyer Mélanie (24 octobre 2014)"
+        },
+        {
+            "desription": "projet : Foyer Paroissial de la Robertsau architecte(s) : AUBRY LIEUTIER. article de : Le Moniteur du BTP",
+            "id": 221,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/221/16.jpg",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/221/16i.jpg"
+                }
+            ],
+            "projet": "Elégance et épure pour le foyer de la Robertsau (2014)"
+        },
+        {
+            "desription": "projet : Chalet du Champ du Feu à Belmont architecte(s) : AUBRY LIEUTIER. article de : Le Moniteur du BTP",
+            "id": 220,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/220/15.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/220/15i.png",
+                    "text": "Avec \"une interprétation contemporaine du chalet\", l'agence d'architecture Aubry-Lieutier donne un coup de jeune au Champ du Feu, la station de ski la plus proche de Strasbourg. Inauguré au début de cet hiver après un investissement de 1,85 millions d'euros, réalisé par le Conseil Général du Bas-Rhin, l'équipement associe un accès de plein-pied pour le public au niveau supérieur, et des locaux techniques situés 5 mètres plus bas. L'inertie du béton, conjuguée avec une ossature bois et une étanchéité végétalisée, donne ses performances thermiques au bâtiment de 749m² hors oeuvre nette, construit par 14 entreprises locales."
+                }
+            ],
+            "projet": "Coup de jeune à la station de ski du Champ du Feu (2013)"
+        },
+        {
+            "desription": "Projet sélectionné parmi les 100 bâtiments de l'année AMC 2007",
+            "id": 219,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/219/32.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/219/32i.png"
+                }
+            ],
+            "projet": "Collège de la Wantzenau (2007)"
+        },
+        {
+            "desription": "projet : Collège André-MALRAUX architecte(s) : AUBRY LIEUTIER. article de : DNA",
+            "id": 218,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/218/14.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/218/14i.png",
+                    "text": [
+                        "Dernière touche à ce gros chantier dont les études de programmation avaient débuté il y a six ans : les deux citations de Malraux qui courent sur la façade, notamment \"les idées ne sont pas faites pour être pensées, mais être vécues\". Et cette opération menée par le conseil général en est une belle illustration.",
+                        "Après l’historique rappelé par le principal Charles Schmitt et les explications techniques des deux architectes Vincent Lieutier et Thierry Aubry, le président du conseil général Philippe Richert et les personnalités ont coupé le ruban, sous le préau en forme de boomerang. Réunis dans l’autre cour, ils ont applaudi des jeunes de la section théâtre qui ont chanté et mis en scène la transformation de leur établissement et les cogitations des architectes qui, selon eux, ont abouti à cette version \"baba cool conceptuelle\".",
+                        "Le public a visité ensuite le centre de documentation et d’information, a admiré un professeur de mathématiques faisant travailler ses élèves sur un tableau interactif avant de rejoindre le restaurant scolaire pour les discours. Le moment pour Claude Graebling, maire de La Wantzenau, de rendre hommage à \"la démarche volontariste\" du conseil général et à cet investissement de 8.7 M€. Fruit de l’intercommunalité avec Gambsheim et Kilstett, ce collège s’était ouvert en 1970.",
+                        "Bernard Schreiner, conseiller général de Brumath a souligné \"la volonté d’agir et d’aboutir afin de donner aux jeunes un outil pour préparer leur avenir\".",
+                        "Pour le député François Loos, voici à présent un collège \"qui respire le beau, le bon et le vrai\", le vrai pour la sûreté des connaissances, le beau pour l’architecture réus-sie et le bon pour la qualité des relations humaines. Et d’exhorter les adolescents à ne pas seulement être des héritiers d’expériences, mais d’avoir \"un esprit de conquête\", comme le dit l’auteur de La Condition humaine : \"la culture ne s’hérite pas, elle se conquiert\".",
+                        "Le recteur Gérald Chaix a pointé l’enjeu des effectifs quant la création d’une filière bilingue pour faire suite à l’enseignement du primaire et les efforts d’orientation à mener, alors que les redoublements sont de 10 % en 4 \"Il faut se donner des ambitions fortes\", ajoutait Philippe Richert qui a félicité les deux architectes, avec moins de 1 000€ de ratio pour cette restructuration de 3 600 m2 et les 4 000 m2 neufs. Lui qui était principal adjoint de 87 à 92 a retrouvé avec plaisir cet établissement, \" véritable creuset d’une communauté de vie et d’ambitions\". De quoi \"être optimiste pour le futur\"."
+                    ]
+                }
+            ],
+            "projet": "Des idées dans les murs (2007)"
+        },
+        {
+            "desription": "projet : Présentation. article de : Vincent Lieutier",
+            "id": 217,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/217/13.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/217/13i.png",
+                    "text": "\" Enervés par ce qui se passait à Marseille nous voulions faire un journal aussi \"efficace\" que le PACA du CAUE 13 (assistant et parrain de notre journal). A l'occasion du dernier numéro paru (le n° 5!!!), nous interviewions Rudy Ricciotti. Après les troublantes \"théories et doctrines\" de Jacques Sbriglio (avant lui, je ne savais pas que l'architecture moderne pouvait être si délicate et tellement sensible...), je tombais (de haut) sur quelqu'un qui parlait furieusement de plaisir, de cagoles, de politique, de joint creux, Il m'a donné envie d'essayer des trucs, de résister à l'envahisseur, d'être franc, de construire, d'être amoureux, de revenir au bord de la Méditerranée, de garder mes idées... Je n'aurais jamais osé travailler chez lui et j'avais du mal à travailler chez d'autres... Quand j'ai gagné Herbsheim, je travaillais déjà avec Thierry (nous terminions une salle équipée d'un bar de compétition). Thierry Aubry travaillait chez TOA mais il a fait toute la conception de Herbsheim avec moi. Notre économiste préféré qui assumait aussi la mission OPC partait en Bretagne et nous recommandait de le remplacer par C2BI. M. Dalmar (C2BI), amusé par Herbsheim, nous a proposé de faire équipe. Après le CAUE 67, il nous a fait confiance et nous a permis de répondre à des programmes plus importants. Effrayés (nous sommes des bébés architectes) nous avons gagné un concours de collège en chantier aujourd'hui. Toutes ces émotions ça crée des liens, nous nous associons... \"."
+                }
+            ],
+            "projet": "Autoportraits de 12 agences (2006)"
+        },
+        {
+            "desription": "projet : CLSH ECKBOLSHEIM architecte(s) : Cabinet HEINTZ-KEHR. article de : Vincent Lieutier",
+            "id": 216,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/216/12.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/216/12i.png",
+                    "text": "\" Enervés par ce qui se passait à Marseille nous voulions faire un journal aussi \"efficace\" que le PACA du CAUE 13 (assistant et parrain de notre journal). A l'occasion du dernier numéro paru (le n° 5!!!), nous interviewions Rudy Ricciotti. Après les troublantes \"théories et doctrines\" de Jacques Sbriglio (avant lui, je ne savais pas que l'architecture moderne pouvait être si délicate et tellement sensible...), je tombais (de haut) sur quelqu'un qui parlait furieusement de plaisir, de cagoles, de politique, de joint creux, Il m'a donné envie d'essayer des trucs, de résister à l'envahisseur, d'être franc, de construire, d'être amoureux, de revenir au bord de la Méditerranée, de garder mes idées... Je n'aurais jamais osé travailler chez lui et j'avais du mal à travailler chez d'autres... Quand j'ai gagné Herbsheim, je travaillais déjà avec Thierry (nous terminions une salle équipée d'un bar de compétition). Thierry Aubry travaillait chez TOA mais il a fait toute la conception de Herbsheim avec moi. Notre économiste préféré qui assumait aussi la mission OPC partait en Bretagne et nous recommandait de le remplacer par C2BI. M. Dalmar (C2BI), amusé par Herbsheim, nous a proposé de faire équipe. Après le CAUE 67, il nous a fait confiance et nous a permis de répondre à des programmes plus importants. Effrayés (nous sommes des bébés architectes) nous avons gagné un concours de collège en chantier aujourd'hui. Toutes ces émotions ça crée des liens, nous nous associons... \"."
+                }
+            ],
+            "projet": "C'est peut-être ça, l'achitecture (2005)"
+        },
+        {
+            "desription": "projet : Le Courlis architecte(s) : AUBRY LIEUTIER. article de : Vincent Lieutier",
+            "id": 215,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/215/11.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/215/11i.png",
+                    "text": [
+                        "Salle Multifonction (sportif, festif, culturel)",
+                        "Il n'y a pas de projet sans histoires, l'architecture est une aventure humaine.",
+                        "Le projet de la salle multifonction de Herbsheim ne s'est pas déroulé sans heurts.",
+                        "Au final, aucune trace de ces vicissitudes : 750 Euros HT/m2 Shon pour un bâtiment qui crée du tien, stimule la création d'associations",
+                        "Les jeunes la trouvent branchée, les vieux s'y sentent à l'aise, certains disent même qu'elle est belle."
+                    ]
+                }
+            ],
+            "projet": "Prix de l'architecture Grand Est (2005)"
+        },
+        {
+            "desription": "projet : Le Courlis architecte(s) : AUBRY LIEUTIER. article de : DNA",
+            "id": 214,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/214/10.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/214/10i.png",
+                    "text": [
+                        "La médiathèque de Sélestat et la salle multifonctions d'Herbsheim sont parmi les huit lauréats du premier Palmarès de l'architecture et de l'aménagement urbain Alsace 2004.",
+                        "Ce concours était organisé pat les Conseils d'architecture, d'urbanisme et d'environement (CAUE) du 'Bas-Rhin et du Haut-Rhin. En partenariat avec la Direction Régionale des Affaires Culturelles, les deux conseils généraux et la Communauté Urbaine de Strasbourg, le jury a sélectionné huit projets parmi 115 postulants.",
+                        "La salle multifonctions d'Herbsheim est une des lauréates. Son concepteur, Vincent Lieutier, se déclare \"très content\" de cette récompense. \"Même dans des petits villages, on peut faire de l'architecture à la fois contemporaine et appropriée à la fonction du bàtiment\". L'idée de départ était de faire \"chic et pas cher\", avec un budget de 750000€. \"On a eu quelques problèmes de chantier. Mais on ne fait pas de séries, chaque projet est un prototype\", explique l'architecte.",
+                        "\"Pour beaucoup, il y a soit la copie d'architecture traditionnelle, soit le moderne high-tech, dur à chauffer.... Entre les deux, on peut faire quelque chose d'intéressant, même à la campagne!\". Vincent Lientier décrit la salle multifonctions comme un bâtiment \"normal\", et pas seulement \"contemporain\".",
+                        "Bois du red cedar",
+                        "La médiathèque de Sélestat, déjà largement plébiscitée, fait elle aussi partie du palmarès. Ses deux concepteurs, Christian Schouvey et Jacques Orth, sont également \"contents et fiers\" de cette nouvelle distinction.",
+                        "Inaugurée il y a sept ans, la médiathèque a l'avantage \"d'évoluer sans vieillir\", selon Christian Schouvey. \"On a utilisé des matériaux végétaux, comme le lierre qui a bien poussé, explique-t-il. Le bois, du red cedar, prend une patine gris cendré, tandis que les écailles de cuivre donnent des reflets marrons. \". Pour Jacques Orth, l'originalité du bâtiment tient aussi dans \"son ouverture sur la ville, son utilisation des volumes, faciles à appréhender pour les usagers.\".",
+                        "Les trois architectes s'accordent à remercier aussi les personnes qui ont cru dans leur projet. \"La médiathèque, c'était le premier projet de ce genre en Alsace.",
+                        "C'était aussi un pari pour Sélestat\", témoigne Jacques Orth. Pour Vincent Lientier, \"ce genre de distinctions sert à promouvoir l'architecture auprès du public, et pousse les architectes à ne pas baisser les bras, à toujours proposer des choses nouvelles. \"."
+                    ]
+                }
+            ],
+            "projet": "L'architecture récompensée (2005)"
+        },
+        {
+            "desription": "Lauréat du palmarès de l'Architecture et de l'aménagement.",
+            "id": 213,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/213/33.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/213/33i.png"
+                }
+            ],
+            "projet": "Herbsheim (2004)"
+        },
+        {
+            "desription": "projet : Musée du Pays de Sarrebourg architecte(s) : Bernard DESMOULIN. article de : Thierry AUBRY",
+            "id": 212,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/212/9.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/212/9i.png",
+                    "text": [
+                        "Au centre de la ville, le musée de Pays de Sarrebourg, conçu par l'architecte Bernard Desmoulin, développe une architecture peu démonstrative dont le souhait serait d'investir le champ de l'émotion.",
+                        "Sortis de la Chapelle des Cordeliers où repose le vitrail La Paix de Marc Chagall, les yeux embués de bleu, de celui dont on tapisse les rêves et Claude Nougaro les tuiles, nous nous dirigeons vers le musée du Pays de Sarrebourg situé non loin en plein coeur urbain.",
+                        " Au pied d'un escalier en pas d'âne apparaissent trois volumes énigmatiques, cérémonieux et fiers évoquant la typologie d'anciennes halles. Béton brut clair et cuivre pré-oxydé, voilà pour la peau mais l'essentiel est ailleurs. Face à un environnement disparate qui semble en mutation et en construction, le musée structure et ordonne une nouvelle configuration urbaine. Il semble également mettre à distance ses humbles voisins ; depuis la rue quelques ouvertures verticales témoignent d'une intériorité contenue et précieuse. Par l'escalier ou par l'entre-deux mitoyen, nous rejoignons le parvis d'entrée, où l'univers propre et l'intériorité du musée se révèlent. Dans un bassin, vide ce jour-là, on imagine la façade vitrée du hall se refléter, les jeux de vibrations de la lumière. Le musée accueille une collection archéologique provenant de fouilles locales, des faïences et des porcelaines de la manufacture de Niderviller et quelques oeuvres de Chagall, dont la tapisserie La Paix. Le parcours muséographique se décline suivant un cheminement clair-obscur, quelques cadrages sur l'espace urbain laissé derrière nous. Ici, c'est un paysage intérieur qui se met en scène autant qu'il met en scène son contenu.",
+                        "Dans un édifice, on aimerait n'éprouver qu'une sensation, traverser une forêt, contempler un rivage, se lover dans une grotte... L'espace contenant les vestiges archéologiques deTarquimpol occupe le volume central, il est rempli tout entier d'un souffle aux origines ancestrales, élémentaires. C'est un exercice difficile, et le moindre détail peut altérer cette sensation. Devant la restitution théorique du portique d'un monument public deTarquimpol ou au pied de la Cachette du Paysan, nous aimerions \" boire des liqueurs fortes comme du métal bouillant, comme faisaient ces chers ancêtres autour des feux \" (Arthur Rimbaud, Une saison en enfer). Les forces en présence émanent d'une tendre austérité, murs en béton brut, sol en résine coulée anthracite, lumière zénithale. Une architecture peu démonstrative dont le souhait serait d'investir le champ de l'émotion.",
+                        "Sortis du musée, nous comprenons et éprouvons le parcours emprunté et cette mise à distance nécessaire de son environnement. \" Il y a une beauté dans le dénuement, dans le presque rien. C'est une esthétique. J'ai horreur des architectures bavardes \"*, nous confie Bernard Desmoulin. Son architecture ne bavarde pas, elle semble vouloir murmurer l'ordre et la noblesse du monde. L'architecture peut être ce souffle."
+                    ]
+                }
+            ],
+            "projet": "Souffle intérieur (2004)"
+        },
+        {
+            "desription": "projet : IUT de Colmar architecte(s) : TOA ARCHITECTES. article de : Vincent Lieutier",
+            "id": 211,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/211/8.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/211/8i.png",
+                    "text": [
+                        "Thierry, Olivier et Alain (TOA), ont construit la bibliothèque et le bâtiment \"Génie des Télécommunications et réseaux\" de l'IUT de Colmar.",
+                        "Enfin un IUT au (presque) coeur d'une ville.",
+                        "Avant l'IUT, il y avait une usine. Comme toutes les usines, elle a fermé. Le terrain ne servait plus à rien tout en étant dans la ville. Et la ville c'est cher parce que c'est chic, dense, rentable, de toutes les couleurs, rigolo, écologique, bon, confortable, recherché, irremplaçable, simple, beau. Donc on décide d'y installer une sorte de campus pour qu'on apprenne là où on trimait. Pourtant, on a l'habitude de faire les campus en dehors de la ville bien plus pratique pour se garer ! À propos, êtes-vous déjà monté dans une Audi ? Tout parait de bonne qualité, moderne et fiable. Évident... Mais certains ont dû dire que c'était austère, alors pour rire, chez Audi ils ont fait une TT...",
+                        "Quand on arrive aux abords de l'IUT, seule une façade luisante et chic révèle la présence d'un programme singulier. Une façade dont la rive inclinée accentue ou diminue la perspective (selon le côté). Une façade à la légitime monumentalité, celle de la bibliothèque.",
+                        "La bibliothèque est l'espace de représentation d'un ensemble voué à l'enseignement. Elle est l'ouverture du site sur la ville alors la bibliothèque la regarde. Côté ville, la bibliothèque devient signal, elle est un monument, alors la ville la regarde.",
+                        "La mise en place d'un édifice singulier est l'occasion de créer un accident à la hauteur de son importance. Ici la bibliothèque s'aligne et la rue continue. La bibliothèque ferme et intimise l'îlot. Sa forme évidemment atypique (c'est la bibliothèque !) établit une transition entre la direction de la rue et celle de la parcelle.",
+                        "Les architectes de TOA ne réinventent pas ce qui marche. Sur la rue, une façade mondaine et suggestive.Au centre, les perspectives de l'existants sont renforcées. Chez TOA, pas de rond, pas de coins et recoins, TOA impose l'ordre sur lequel le désordre de la vie s'installe avec désinvolture. Rares sont les architectes qui savent\" s'étendre sans se répandre\" en continuant le sens et l'histoire d'un site.",
+                        "La rigueur née de la logique aboutit à cette sensation d'évidences. L'évidence, c'est l'architecte qui trime pour être infaillible. Le statut de chaque espace est établi et projeté en conséquence.TOA s'applique à maîtriser le programme pour en magnifier le fonctionnement.TOA, passionné, aligne, dessine gère, TOA détaille, fait des plans avec des règles bien droites, du bon matos.TOA est à l'architecture ce que Bosch est à la perceuse...",
+                        "Mais les teintes, les détails et les matières sont multiples. On imagine de longues discussions passionnées avec l'entrepreneur surpris par la passion et le savoir-faire (c si rare chez les architectes \" dit-il !).Tout ça est parfaitement réalisé et si vous êtes amateur de bel ouvrage, prévoyez du temps pour la visite... Tout est beau mais tout ne va pas toujours ensemble...",
+                        "Et si tout ça (que l'on lit comme un énorme travail) cachait le sens du projet (l'évidence qui semble si facile) ?",
+                        "Si l'architecture se doit d'être commode, ce n'est pas toujours le cas, et la légitimité des architectes en pâtit.Alors bravo à ceux qui font croire que leur architecture est évidente, ils pourraient bien donner des envies d'architecture. Alain (le A de TOA) nous expliquait que le site est occupé par de nombreuses charmantes demoiselles. Nous en avons rencontré une (la directrice de la bibliothèque) convaincue à juste titre par les performances de TOA. Quand l'utilisateur est le premier faire valoir d'un édifice alors c'est gagné.",
+                        "TOA c'est un peu comme chez Audi : ils font un projet énervant de perfection alors pour rire ils mettent de drôles de couleurs !!!"
+                    ]
+                }
+            ],
+            "projet": "Les deux cotés du mur (2004)"
+        },
+        {
+            "desription": "projet : Le Courlis architecte(s) : AUBRY LIEUTIER. Projet sélectionné",
+            "id": 210,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/210/7.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/210/7i.png",
+                    "text": "Réponse qui, par sa modestie et la rigueur de sa composition, offre avec une économie de moyens et d'effets, un écrin pour la diversité des activités d'une petite commune rurale."
+                }
+            ],
+            "projet": "Palmarès de l'architecte et de l'aménagement urbain Alsace (2004)"
+        },
+        {
+            "desription": "projet : Le Courlis architecte(s) : AUBRY LIEUTIER. article de : Emmanuelle ROMBACH",
+            "id": 209,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/209/6.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/209/6i.png",
+                    "text": [
+                        "Sur les bords de la rivière Zembs, la commune d'Herbsheim se dote d'une salle polyvalente, Le Courlis, un exemple d'architecture contemporaine dans le paysage du grand Ried. Présentation d'un bâtiment singulier.",
+                        "Au débouché du pont qui conduit au stade d'Herbsheim émerge un événement architectural : la nouvelle salle sportive et festive de la Communauté de Communes de Benfeld et environs. L'édifice frappe par la simplicité de ses volumes et la sobriété de ses matériaux, résultat d'une volonté architecturale forte confrontée à une enveloppe financière plutôt modeste.",
+                        "Un socle en maçonnerie abrite le hall d'entrée, les vestiaires, le local rangement et la cuisine. Il ancre le bâtiment dans son contexte et sert de base au volume émergent bardé de polycarbonate qui couvre la salle polyvalente et lui confère, de jour comme de nuit, un caractère énigmatique. L'agglo de béton, peint à l'extérieur en vert tendre pour \"dialoguer\" avec l'environnement végétal de l'équipement, reste brut à l'intérieur, affichant sans complexe la vérité de sa matière. L'orange des menuiseries intérieures apporte la touche colorée qui suffit à égayer et dynamiser le traitement sobre en gris et noir de la grande salle et à donner le ton de l'ambiance des autres locaux Un bâtiment qui prouve qu'en Alsace, on peut faire simple, contemporain et économique.",
+                        "L'avis des architectes",
+                        "Au-delà de ce type de programme (une salle polyvalente) qui impose ses dimensions et sa forme, vous avez réussi à tisser des liens forts avec le site par son image, son positionnement, ses ouvertures. Quelle a été votre manière d'imaginer ce bâtiment ?",
+                        "Nous avons eu une approche très pragmatique. Se caler en fond de parcelle pour laisser jaillir un monolithe de polycarbonate (le plastique ça fait joli) et son parvis végétal, avec en fond la nature verdoyante et bucolique : c'est un contraste qui s'est vite imposé dans notre réflexion. Après,tout est trivial, fonctionnement et vues : l'entrée du bâtiment se cale sur la rue, la grande salle s'ouvre sur le terrain de sport extérieur grâce à des grandes baies coulissantes, la fenêtre horizontale de la salle de réunion englobe le village dans un large panoramique.Trois orientations différentes qui calent le bâtiment dans son contexte...",
+                        "L'extérieur qui scintille, l'intérieur plutôt sombre... on est surpris par la différence des ambiances liées à l'emboîtement de ces deux carapaces. Pourquoi ce contraste ?",
+                        "On a voulu faire chic à l'extérieur comme un diamant qu'on astique. et classe à l'intérieur (vous noterez la nuance) avec le moins de fric possible. plafond inox dans la salle de réunion, ambiance sombre dans la grande salle dont on peut-moduler l'éclairage (on allume plein pot pour le mariage de l'oncle. on tamise pour l'anniversaire de grand-mère).",
+                        "Je peux venir samedi ?"
+                    ]
+                }
+            ],
+            "projet": "Agglo et Polycarbo (2003)"
+        },
+        {
+            "desription": "projet : La Coupole à Saint-Louis architecte(s) : Manuelle GAUTRAND. article de : Vincent Lieutier",
+            "id": 208,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/208/5.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/208/5i.png",
+                    "text": [
+                        "Au menu : farandole de couleurs et défilé de matière, pour un lieu où l’on vient pour voir, et aussi pour être vu...",
+                        "Au loin à gauche, le néon rose annonce la Coupole. Le coeur du théâtre est une haute carapace de béton, dont le caractère massif est accentué par ses angles arrondis. Une façade épaisse, judicieux transfert d’échelle, aligne le monument avec la façade voisine. Pour entrer, il faut passer sous les plateaux, entre de gros poteaux. Il y en a juste assez pour écrire \" COUPOLE \"",
+                        "L’entrée est petite, mais vous êtes déjà dans la sauce",
+                        "C’est soigné et bavard : un mur jaune, une ouverture rouge, un long guichet en bois, mazette, ça carbure ! Un intime passage et un escalier moquetté vous emmènent au déambulatoire",
+                        "Couleurs (jaune, orange, brun, rouge, rose magenta) et matières (béton, polycarbonate, moquette, verre teinté) établissent des superpositions judicieuses : plexiglass orange, peinture rose et rouge pour l’entrée des toilettes (à visiter !). Les douilles et les lampes teintées ajoutent un niveau de lecture à la succession de couleurs et de matières",
+                        "A l’ouest, vous retrouverez le bar et la rue. Avancez : la résille fragile, un bas mal ajusté qui cache pour mieux montrer, voile un espace de représentation, celui du public. Elle tamise les rayons du soleil et renforce l’effet de façade. Mais il fait nuit, alors on voit tout ! Il fait bon prendre un verre (de champagne...), dominer la rue, la regarder négligemment",
+                        "Vous voyez qu’on vous voit. Bougez légèrement. La façade de ce monument, ce soir, c’est vous",
+                        "Attention, si vous en buvez trop (de champagne...) vous ne verrez pas le spectacle, vous ne verrez pas la salle... Des sas vous y conduisent. L’un deux est capitonné de cuir vert amande avec finitions délicates. Le velours rouge a fait ses preuves ailleurs. Il les fait ici côté public, où tout est rouge. Côté scène, tout est noir. L’efficacité prime. Côté public, les gradins sont de véritables arènes; côté scène, les possibilités de spectacle sont énormes.Les espaces extérieurs sont aussi importants que la salle. A la manière d’un opéra du 19ème..",
+                        "Cette couture, digne des grands couturiers, est l’équivalent des dorures chargées des opéras du 19ème qui pouvait déjà déplaire. Mais la couture de Manuelle est opportune. Elle nous montre d’ailleurs qu’elle sait faire serein (la salle). Les attitudes différentes sont légitimes : dans la salle, on regarde la scène, à l’extérieur, on est la scène...comme à l’opéra au 19ème",
+                        "Oui, le plastique va bien avec le cuir, le rose va bien avec le rouge, la moquette va bien avec l’onduline, le champagne va bien avec la culture. Se sentir chic dans cet espace de plastoc a du bon et reste cohérent (nous vivons le temps du plastique...). Ce bâtiment a quelque chose d’aristocratique. Jouons aux gens qui sortent ce soir, qui se montrent : un brin italien, marseillais à fond. Prenez le temps de prendre du plaisir, cette architecture est là pour ça, Manuelle a dû en prendre",
+                        "Merci, Monsieur le Directeur, de nous avoir promenés dans tout le bâtiment. L’enthousiasme que vous avez pour votre édifice est grand. Du coup le programme est noble et l’espace devient politique..."
+                    ]
+                }
+            ],
+            "projet": "AUn projet de gonzesse (2002)"
+        },
+        {
+            "desription": "projet : Salle Concordia architecte(s) : AUBRY LIEUTIER. article de : Vincent Lieutier",
+            "id": 207,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/207/4.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/207/4i.png",
+                    "tilte": "LA SALLE CONCORDIA DE DAUENDORF",
+                    "text": [
+                        "En janvier 2001, la commune de Dauendorf se met sur son 31 pour inaugurer l'extension de la salle Concordia par la fête annuelle des personnes âgées.Trop impatient pour attendre la réception des travaux, Jean-Claude Wagner, le maire de la commune, déroule le tapis rouge et ouvre les portes sur une salle en attente de finitions. Pourtant, il n'a pas toujours brûlé les étapes. L'histoire du projet commence dans la salle du conseil, où il réussit à convaincre ses administrés de conserver la salle construite bénévolement vingt ans plus tôt par l'Harmonie Concordiale de Dauendorf et d'y rattacher une extension, plutôt que d'imaginer une salle polyvalente en périphérie de la commune. Même si l'architecture n'est pas exceptionnelle, elle est le cadeau des \" musiciens-maçons \" de l'époque pour le bien-être de la commune, et \" on se doit de la garder \", explique-t-il.",
+                        "Pour ce projet de bâtiment public, Jean-Claude Wagner veut prendre le risque d'un projet fort. Il ne se satisfera pas d'une réponse conciliante, il veut surprendre. Le choix se porte sur Vincent Lieutier et Thierry Aubry qui justement veulent surprendre. Peu emballé par les références qu'il a pu voir dans la région, il laisse carte blanche aux jeunes architectes. \" Ils ne sont pas prisonniers d'un style, leur but est d'expérimenter au maximum \".",
+                        "A partir de là, le temps n'est plus compté, les réunions se terminent tôt le matin avec maquettes d'étude, et croquis.",
+                        "Le chantier démarre. Le maire s'y rend chaque jour, week-end compris, \" pour empêcher les dégradations \" ; chaque jour il imagine l'étape suivante et admire le béton brut, le carrelage rouge vif, la tôle déployée au plafond en pensant aux réunions musclées du conseil municipal consacrées au choix des matériaux. Ce soir de janvier 2001, avec tapis rouge, inox au bar et néons sous la casquette, le maire ouvre les portes et le bal avec les anciens musiciens de l'Harmonie Concordiale de Dauendorf."
+                    ]
+                }
+            ],
+            "projet": "Les Journées de l'architecture - parole aux usagers (2002)"
+        },
+        {
+            "desription": "projet : Salle Concordia architecte(s) : AUBRY LIEUTIER. article de : Vincent Lieutier",
+            "id": 206,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/206/3.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/206/3i.png",
+                    "title1": "L'Architecture contemporaine expliquée aux nuls",
+                    "text": [
+                        "Extension et réaménagement de la salle Concordia à Dauendorf",
+                        "Le bâtiment existant est un rectangle de 42x13 m couvert d'une toiture à deux pans : le bonheur d'une construction élémentaire de 1978.",
+                        "'We don't have fucked the context'. Pour la vue magnifique sur les champs de houblons, mais aussi pour le Sud et la rue principale sur laquelle l'édifice doit donner (c'est un édifice public), nous avons réorienté le bâtiment. Le long d'un volume simple, un autre volume simple est décalé vers le Nord afin de dégager une terrasse et une entrée au Sud.",
+                        "Le mur ouest contient la fête. Il est aussi espace de représentation. Une entrée monumentale, excessive : quoi de plus normal pour un espace festif ? Une mise en condition, comme l'entrée d'un casino sur la côte d'Azur...",
+                        "L'ensemble constitue un L qui génère des sous-espaces, dont celui du bar donnant sur la terrasse au Sud. Nous voulions un espace simple, lisible, chic et pas cher. Les matériaux de revêtementet leurs teintes sont peu nombreux, et la structure est, le plus souvent possible, apparente. Les luminaires sont nombreux et multiples, et répondent à une utilisation polyvalente de l'espace. Une grille poisson ferme l'entrée de service : c'est simple et peu onéreux tout en étant aussi chic qu'une bijouterie !",
+                        "Nous avons pris très au sérieux le principe de construire un édifice important pour une petite commune (sa salle des fêtes). Nous voulions que les habitants en soient fiers. La municipalité qui nous a confié ce projet nous a encouragé à le réaliser tel qu'il est aujourd'hui.",
+                        "Le monde rural aspire à une architecture contemporaine et la revendique : architectes, nous n'avons plus d'excuses."
+                    ]
+                }
+            ],
+            "projet": "L'architecture comtemporaine expliquée au nuls (2001)"
+        },
+        {
+            "desription": "projet : La Coupole à Saint-Louis architecte(s) : Manuelle GAUTRAND. article de : Vincent Lieutier",
+            "id": 205,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/205/2.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/205/2i.png",
+                    "title1": "UN PROJET DE GONZESSE",
+                    "subtitle1": "Article de VINCENT LIEUTIER inclus dans Diagonale Anteprima",
+                    "subtitle2": "La Coupole à Saint-Louis de Manuelle Gautrand",
+                    "text": [
+                        "Au menu : farandole de couleurs et défilé de matière, pour un lieu où l'on vient pour voir, et aussi pour être vu...",
+                        "Au loin à gauche, le néon rose annonce la Coupole. Le coeur du théâtre est une haute carapace de béton, dont le caractère massif est accentué par ses angles arrondis. Une façade épaisse, judicieux transfert d'échelle, aligne le monument avec la façade voisine. Pour entrer, il faut passer sous les plateaux, entre de gros poteaux. Il y en a juste assez pour écrire \" COUPOLE \".",
+                        "L'entrée est petite, mais vous êtes déjà dans la sauce.",
+                        "C'est soigné et bavard : un mur jaune, une ouverture rouge, un long guichet en bois, mazette, ça carbure ! Un intime passage et un escalier moquetté vous emmènent au déambulatoire.",
+                        "Couleurs (jaune, orange, brun, rouge, rose magenta) et matières (béton, polycarbonate, moquette, verre teinté) établissent des superpositions judicieuses : plexiglass orange, peinture rose et rouge pour l'entrée des toilettes (à visiter !). Les douilles et les lampes teintées ajoutent un niveau de lecture à la succession de couleurs et de matières.",
+                        "A l'ouest, vous retrouverez le bar et la rue. Avancez : la résille fragile, un bas mal ajusté qui cache pour mieux montrer, voile un espace de représentation, celui du public. Elle tamise les rayons du soleil et renforce l'effet de façade. Mais il fait nuit, alors on voit tout ! Il fait bon prendre un verre (de champagne...), dominer la rue, la regarder négligemment.",
+                        "Vous voyez qu'on vous voit. Bougez légèrement. La façade de ce monument, ce soir, c'est vous.",
+                        "Attention, si vous en buvez trop (de champagne...) vous ne verrez pas le spectacle, vous ne verrez pas la salle... Des sas vous y conduisent. L'un deux est capitonné de cuir vert amande avec finitions délicates. Le velours rouge a fait ses preuves ailleurs. Il les fait ici côté public, où tout est rouge. Côté scène, tout est noir. L'efficacité prime. Côté public, les gradins sont de véritables arènes ; côté scène, les possibilités de spectacle sont énormes.",
+                        "Les espaces extérieurs sont aussi importants que la salle. A la manière d'un opéra du 19ème...",
+                        "Cette couture, digne des grands couturiers, est l'équivalent des dorures chargées des opéras du 19ème qui pouvait déjà déplaire. Mais la couture de Manuelle est opportune. Elle nous montre d'ailleurs qu'elle sait faire serein (la salle). Les attitudes différentes sont légitimes : dans la salle, on regarde la scène, à l'extérieur, on est la scène...comme à l'opéra au 19ème.",
+                        "Oui, le plastique va bien avec le cuir, le rose va bien avec le rouge, la moquette va bien avec l'onduline, le champagne va bien avec la culture. Se sentir chic dans cet espace de plastoc a du bon et reste cohérent (nous vivons le temps du plastique...). Ce bâtiment a quelque chose d'aristocratique. Jouons aux gens qui sortent ce soir, qui se montrent : un brin italien, marseillais à fond. Prenez le temps de prendre du plaisir, cette architecture est là pour ça, Manuelle a dû en prendre.",
+                        "Merci, Monsieur le Directeur, de nous avoir promenés dans tout le bâtiment. L'enthousiasme que vous avez pour votre édifice est grand. Du coup le programme est noble et l'espace devient politique..."
+                    ]
+                }
+            ],
+            "projet": "La Coupole de Saint Louis (2000)"
+        },
+        {
+            "desription": "projet : Stadium de Vitrolles architecte(s) : Rudy RICCIOTTI. article de : \"Moins cher qu'un HLM\"",
+            "id": 204,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/204/1.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/204/1i.png",
+                    "title1": "PRIMITIF, ARCHAÏSME",
+                    "subtitle1": "Rudy Riciotti-Pièce à Conviction - 1998",
+                    "subtitle2": "",
+                    "text": [
+                        "LE STADIUM",
+                        "La salle de rock de Vitrolles est en béton noir, monolithe, opaque, massif, primitif, coulé en oeuvre et d'un seul bloc...Entier. Le site : une coulée de bauxite rouge. Le programme : rock, hand, boxe. Violence. Ma réponse, est contextuelle.",
+                        "Je ne pensais vraiment pas gagner ce concours; avec un projet comme celui ci, on est presque sûr d'être blackboulé. Alors qu'un projet sophistiqué, savant, maniéré, passe, et qu'un projet sophistiqué, savant, maniéré et tardif, passe encore mieux. La radicalité n'est pas appréciée, et c'est un projet radical. Pour cela, il n'y a pas de préfabrication, pas de composants rapportés, c'est un acte unique. Nous ne sommes pas dans un système de sous-traitance qui décompose la tâche des intervenants. L'entrepreneur sait faire du béton, alors on fait du béton comme dans les années cinquante. C'est un acte primitif et unitaire, la force de ce bâtiment, qui s'inscrit dans un geste constructif. La pratique de l'entrepreneur est liée à l'image du Stadium.",
+                        "Derrière son archaïsme, sa simplicité au niveau structurel, la technologie est issue d'une technique de génie civil utilisée pour stabiliser les têtes de pont. Le geste technique porte l'expression du bâtiment. C'est en restant aussi près de celui-ci que le bâtiment prend sa force; ni \"chichi\" ni joints creux ni baguettes.",
+                        "À un moment donné, la force du projet se dégage de ce genre de vérité, et ce n'est pas un discours fonctionnaliste, mais un discours de compagnons : ici on va droit au but, comme avec l'OM. Béton noir teinté dans la masse; j'aime le côté cuirasse du rhinocéros dans E la nave va de Fellini. Je me suis battu pour que la qualité des gestes des ouvriers tunisiens apparaisse dans la construction, comme la page blanche du projet. Finalement, ce sont eux qui ont dessiné l'acrotère. Il y a une magie dans le geste aléatoire qui se doit d'être spontané. Le Wilmotte, le sophistiqué, le joint creux, gnagnagna, clean, bcbg, je trouve ça complètement décadent, je ne suis pas comme ça! Brut d'usinage, ni plus ni moins, être juste au niveau plastique.",
+                        "Ce projet a été fait en même temps que le CRICR. Il y a toujours des relations d'un projet à l'autre. Le CRICR c'est l'inverse de la salle de rock, la complexité est apparente, l'autorité intérieure se raconte dans l'urbain. On dirait une ambassade. Le CRICR, c'est un exercice sur la transparence, ici un exercice sur l'opacité. C'est incroyable comme les gens, et même les architectes, ne comprennent pas ce bâtiment. Pourtant c'est un vrai projet populaire.",
+                        "Qu'aimez-vous que les autres architectes n'aiment pas'",
+                        "J'aime les autoroutes, les passerelles, les toboggans, le bordel... mon bordel. J'aime une certaine idée de la vulgarité. Actuellement en France, il faut jouer les pauvres alors que l'on a du fric. Moi ce qui m'intéresse, c'est de faire riche avec un budget de pauvre ! Je prends un plaisir à faire du logement social. On dirait des logements de riches. J'en suis très fier.",
+                        "Le Stadium de Vitrolles est-il un projet brutaliste",
+                        "Si c'était un projet brutaliste, l'acrotère serait droit et pas grignoté par les rats ! Les points lumineux seraient réglés à l'horizontale de façon très graphique. C'est un projet radicalement baroque.",
+                        "Ciriani aurait-il pu construire dans ce site ?",
+                        "Il aurait vu dans la paupérisation du lieu comment rappeler une certaine esthétique marxienne; ignoré la paupérité du lieu pour célébrer la pauvreté sociale. Pour moi ce n'est pas ça, le système narratif du mouvement moderne évacue trop la mauvaise conscience.",
+                        "La polyvalence ne détruit-elle pas l'architecture ?",
+                        "Rock, hand, boxe, même violence. Ça n'a pas d'effet induit sur la scénographie. J'aime bien la violence de sens. C'est un peu la manière de voir de Fuksas. Il y a une violence urbaine dans son architecture qui impose le langage du plaisir et du désir.",
+                        "Le Stadium est-il une cathédrale du rock en pleine campagne",
+                        "Ici ce n'est pas la campagne. C'est un site archéologique industriel. La coulée de bauxite, c'est l'acidité, la pollution; \"cette mare, tu tombes dedans tu meurs!\" Ici, ce n'est pas le bocage du dix-neuvième, mais la beauté d'un site industriel abandonné, pollué. Ce n'est pas une cathédrale, mais un acte profondément profane. Pourtant les Tunisiens du chantier, me disaient : \"c'est la Kaaba\".",
+                        "Les espaces verts",
+                        "Tout le budget espaces verts est concentré sur un seul arbre! C'est le même arbre que dans la pièce En attendant Godot de Samuel Beckett ou dans Lancelot du lac d'Éric Rohmer. C'est l'arbre des luttes à venir. C'est un immense palmier mort, en alu, de quinze mètres de hauteur éclairé en bleu, couleur frivole !",
+                        "La logique du moindre coût, permet-elle de rester fier et créateur- À partir de quand l'architecture devient-elle un art-Il ne faut pas trop faire le malin par rapport à ça!",
+                        "Pour les penseurs, l'architecture est un savoir-faire, un métier. Produire de la banalité est extrêmement louable. C'est une question piège : \"je ne me prends pas pour un artiste\", mais notre responsabilité quand on produit un bâtiment atypique, est de produire du plaisir, plutôt que de la terreur. C'est le véritable débat de l'architecture d'aujourd'hui. Beaucoup de bons architectes, qui n'ont comme préoccupation que de produire de la banalité urbaine, se ressourcent encore aux discours des années quatre-vingt : \"typomorphologie, renouvellement des formes traditionnelles de la ville... L'immeuble sur rue, le pignon\", discours qui n'est pas inintéressant par ailleurs. On a tellement saccagé nos centres historiques, qu'il fallait réagir.",
+                        "Demain, si je dois construire en centre historique, je me comporterai différemment.",
+                        "Quel avenir imaginez-vous pour ce site Vitrolles, l'Arbois",
+                        "Là-haut, quand il y aura les col-blancs, dans une architecture néomoderne internationale tardive, ça va leur faire drôle le soir quand ils vont descendre et qu'ici il y aura des sauvages. Ils seront obligés d'accélérer dans la descente! Ce qui me plaît, c'est le paradoxe entre le lieu de travail et le lieu du loisir. En haut, raison, ici, déraison, plaisir. Mais ce n'est pas un lieu ludique, je vous interdis de dire ça.",
+                        "\"Tu crois que c'est ludique de se masturber Z\"",
+                        "RACONTE",
+                        "Les guichets exposent le rapport à l'argent. Les murs sont troués comme si des squatters avaient filé des coups de masses dedans. Là-haut, l'administra-don, on ne la voit pas, elle ne nous voit pas. Dans l'entrée, des tôles métalliques, un éclairage violent, un pinceau blanc, un jaune, un rouge, comme une bouche, la bave, la colère de la lumière comme en plein soleil de l'Arizona, les gens seront aveuglés ! Là, tu reprends la pluie, c'est exprès, le mégalithe est décollé. Le verre est devant le mur, propos concomitant du rock, du cuir, à poil avec la bite. Le verre transparent, comme des habits de femme et puis le corps, tu ne peux pas le toucher; rapport à la masse étonnant. Comme dans Indiana Jones, un rayon de lumière qui rentre.",
+                        "... Voilà la nef, tout l'intérieur sera revêtu de métal, tôles d'acier brut, soudures, ponçage, les gestes du compagnonnage. Béton brut, acier brut, sièges en bois dessinés par Totem, avec des taches, comme la peau des vaches.",
+                        "En fait ce projet a quelque chose de romain, la pente atypique est celle des arènes antiques. J'aime les corridas... Là-haut, les colonnes redonnent de l'autorité à l'espace et créent un déambulatoire avec plein de mecs qui fument, se filent, s'enfilent.",
+                        "Vous avez vu les loges, on dirait la Scala de Milan, où pendant le spectacle ils draient un grand rideau rouge pour baiser et bouffer; j'aimerai un grand rideau rouge...",
+                        "Ça, ce sont les portes de scènes, au départ elles étaient en béton, finalement elles sont en acier c'est moins lourd mais ce sera aussi beau.Regardez l'escalier, les garde-corps, ils sont trop méchants. On dirait l'escalier du ciel, de l'enfer, pour monter \"en haut\" et sauter, le péril, la fragilité. Un scenario catastrophe pour un escalier de secours.Les métalliers, regarde la gueule qu'ils ont, ce ne sont pas des enfants de choeur : \"Je bois le Casa, et je soude, lève-toi de là sinon je te soude avec...\"",
+                        "Le côté branchou, c'est pas mon truc, ce sera violent et vulgaire."
+                    ]
+                }
+            ],
+            "projet": "Les interviews vitriol d'un sudiste (1999)"
+        },
+        {
+            "desription": "projet : Journal. article de : Vincent Lieutier, Christophe Flachaire et Eric Dussol",
+            "id": 203,
+            "image": "http://aubrylieutier.draconic-graphisme.com/media/comm/203/0.png",
+            "images": [
+                {
+                    "img": "http://aubrylieutier.draconic-graphisme.com/media/comm/203/0i.png",
+                    "title1": "",
+                    "subtitle1": "Article de Vincent Lieutier, Christophe Flachaire et Eric Dussol 1994",
+                    "subtitle2": "",
+                    "text": ""
+                }
+            ],
+            "projet": "Moins cher qu'un HLM (1994)"
+        }
+    ]
+}
